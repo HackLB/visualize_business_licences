@@ -1,0 +1,15 @@
+{
+    "labels": ["January", "February", "March", "April", "May", "June", "July"],
+    "datasets": [
+        {
+            "label": "District 1",
+            "data": [65, 59, 80, 81, 56, 55, 40],
+            "spanGaps": false,
+        },
+        {
+            "label": "District 2",
+            "data": [23, 67, 2, 23, 64, 40, 10],
+            "spanGaps": false,
+        }
+    ]
+}
